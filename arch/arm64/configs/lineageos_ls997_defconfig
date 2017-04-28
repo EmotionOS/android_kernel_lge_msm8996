@@ -4304,6 +4304,7 @@ CONFIG_TRUSTONIC_TEE_LPAE=y
 # LGE Japanese Mobile Broadcast(ISDB-T 1seg/ISDB-Tmm 13seg) Device Support
 #
 
+#
 # LGE Felica selection
 #
 # CONFIG_CXD224X_FELICA_F3 is not set
